@@ -1,0 +1,17 @@
+
+    body{
+        background-color: rgb(231, 231, 192);
+    }
+    table{
+        width:100%;
+        border:2px solid black;
+        text-align:center;
+        padding:2px;
+       
+    }
+    table,tr,th,td{
+        padding:2px;
+        border:2px solid black;
+        border-collapse: collapse;
+        font-family:'Times New Roman', Times, serif
+        }
